@@ -1,0 +1,4 @@
+- diesel : ORM tool for rust for database interaction
+    - helps manage database migrations (schema changes)
+
+- dotenv : crate that helps manage env variables, for config w/ database url
